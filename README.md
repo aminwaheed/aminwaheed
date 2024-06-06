@@ -15,7 +15,8 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Python, Django, Javascript or anything related to web developmen.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at linkde-in https://www.linkedin.com/in/amin-wahid-46a591311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2rM8RkNpSBuNErSH473lnw%3D%3D
+- 👨‍💻 Check out my portfolio at
+- <a href="linkde-in https://www.linkedin.com/in/amin-wahid-46a591311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2rM8RkNpSBuNErSH473lnw%3D%3D"><i class="fa-brands fa-linkedin"></i></a>
 
 
 ### Connect with Me :
